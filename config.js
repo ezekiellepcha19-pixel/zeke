@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "BABY BOO, my wuv",
+    valentineName: "BABY BOO, my wuv ",
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
     pageTitle: "Will You Please Be My Valentine?",
