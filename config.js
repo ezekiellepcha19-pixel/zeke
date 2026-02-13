@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dus9zlpmm/video/upload/v1771011097/New_West_-_Those_Eyes_Lyrics_-_Dan_Music_wmkfae.mp3", // Music streaming URL
+        musicUrl: " https://res.cloudinary.com/dus9zlpmm/video/upload/v1771011097/New_West_-_Those_Eyes_Lyrics_-_Dan_Music_wmkfae.mp3 ", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 1.0                        // Volume level (0.0 to 1.0)
