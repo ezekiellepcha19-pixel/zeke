@@ -5,10 +5,10 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "BABY BOO",
+    valentineName: "BABY BOO, my wuv",
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Please Be My Valentine? 💝",
+    pageTitle: "Will You Please Be My Valentine?",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -21,7 +21,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Play ouw music button upright dey and ahem, Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I WUV you! ❤️"           // Secret hover message
@@ -32,6 +32,11 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
+            text: " Do you miss me evewy single day, hour, min and seconds? ",
+            yesBtn: "Yes!!",
+            noBtn: "YES!!!",
+        },
+        fourth: {
             text: "Will you be my Valentine fow this year and fowevew please? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
